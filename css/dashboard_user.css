@@ -64,7 +64,9 @@ span {
     padding:20px;
 }
 .breadcrumb .name_page{
-    padding-right:920px;
+    padding-right:880px;
+    color :#1EC48C;
+    font-weight: 630;
 }
 /* ---------------------------------------------------
     SIDEBAR STYLE / sisi kiri 
@@ -235,9 +237,14 @@ ul ul a {
 .navbar-collapse ul li{
     display:none;
 }
-
+.img_foto{
+    border-radius: 50%;
+    width:40px;
+    margin-left:815px;
+    right:10px;
+}
 .dropdown{
-    margin-left:850px;
+    margin-left:0px;
     
 }
 
@@ -276,9 +283,11 @@ ul ul a {
         text-align: center;
         margin-left: -80px !important;
     }
-
+    .img_foto{
+        display:none;
+    }
     .breadcrumb .name_page{
-        padding-right:185px;
+        padding-right:263px;
     }
     .dropdown
     .dropdown-toggle::after {
