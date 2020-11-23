@@ -599,4 +599,12 @@ table.table .avatar {
     .isi_data .row .card{
         margin-top: 20px;
     }
+    /* menu responsive */
+    .navbar-collapse .nav-item :hover{
+        background :  #1EC48C;
+    }
+
+    .navbar-collapse .nav-item a{
+        text-align: center;
+    }
 }
