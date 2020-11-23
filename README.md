@@ -8,3 +8,5 @@ update 22 november 2020 :
 update 23 november 2020 :
 1. update dashboard user.html dan dashboard admin.html menambahkan permodelan jika dari database
 2. menambahkan file kelola user.html .css dan kelola acara html css
+3. menambahkan file daftar hadir html css
+4. pages admin done
